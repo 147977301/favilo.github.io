@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://favilous.com/sitemap.xml
